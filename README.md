@@ -81,11 +81,12 @@ An online multiplayer game featuring unique party game modes like **Deathrun** a
 
 ## 📫 Get in Touch
 
-<!-- Uncomment and fill in the ones you want to display -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) -->
-<!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername) -->
-<!-- [![Steam](https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourusername) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/cevat-bayraktaroglu/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cevat.bayraktaroglu@gmail.com)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cevcevcev123)
+[![Steam](https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bestrustplayerintr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cevatburak)
 
 ---
 
