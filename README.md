@@ -34,7 +34,6 @@ I love building things with C# — from enterprise automation tools to multiplay
 | **Frameworks** | ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 | **Networking** | ![Mirror](https://img.shields.io/badge/Mirror-4A90D9?style=flat-square) ![Steamworks.NET](https://img.shields.io/badge/Steamworks.NET-1B2838?style=flat-square&logo=steam&logoColor=white) |
 | **Integrations** | ![CargoWise](https://img.shields.io/badge/CargoWise_One-FF6600?style=flat-square) ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
 
 </div>
 
